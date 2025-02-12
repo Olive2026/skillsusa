@@ -85,8 +85,7 @@ void initialize() {
       {"Boomerang Pure Pursuit\n\nGo to (0, 24, 45) on the way to (24, 24) then come back to (0, 0, 0)", odom_boomerang_injected_pure_pursuit_example},
       {"Measure Offsets\n\nThis will turn the robot a bunch of times and calculate your offsets for your tracking wheels.", measure_offsets},
     */
-   {"Turning PID t2", turn_pid},
-   {"Turn\n\nTurn 3 times.", turn_example},
+   {"Turning PID t3", turn_pid},
 
   });
 
