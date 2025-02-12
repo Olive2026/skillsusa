@@ -33,11 +33,11 @@
             "--std=gnu++20",
             "-Wno-deprecated-enum-enum-conversion",
             "-o",
-            "bin/autons.cpp.o",
-            "src/autons.cpp"
+            "bin/main.cpp.o",
+            "src/main.cpp"
         ],
-        "directory": "/Users/goldenolives/Downloads/Skills-File",
-        "file": "src/autons.cpp"
+        "directory": "/Users/goldenolives/workspace/skillsusa",
+        "file": "src/main.cpp"
     },
     {
         "arguments": [
@@ -73,10 +73,10 @@
             "--std=gnu++20",
             "-Wno-deprecated-enum-enum-conversion",
             "-o",
-            "bin/main.cpp.o",
-            "src/main.cpp"
+            "bin/autons.cpp.o",
+            "src/autons.cpp"
         ],
-        "directory": "/Users/goldenolives/Downloads/Skills-File",
-        "file": "src/main.cpp"
+        "directory": "/Users/goldenolives/workspace/skillsusa",
+        "file": "src/autons.cpp"
     }
 ]
